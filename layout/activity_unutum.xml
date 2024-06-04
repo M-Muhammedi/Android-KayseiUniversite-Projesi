@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/kayseri3"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context=".Unutum">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/btn_bilgi_sistemi"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/logo" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Şifre Sıfırla"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:layout_marginBottom="15dp">
+
+        </TextView>
+
+
+
+        <EditText
+            android:drawableLeft="@drawable/email"
+            android:drawablePadding="5dp"
+            android:id="@+id/kayit_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/input_all_dayire"
+            android:layout_marginTop="10dp"
+            android:textColorHint="@color/white"
+            android:padding="10dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginLeft="25dp"
+            android:textColor="@color/white"
+            android:hint="E-Mail"/>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="25dp">
+            <Button
+                android:backgroundTint="@color/img_btn"
+                android:layout_weight="1"
+                android:layout_marginRight="7dp"
+                android:layout_marginLeft="25dp"
+                android:id="@+id/btn_unutum_giris"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gönder"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:padding="10dp"/>
+            <Button
+                android:backgroundTint="@color/img_btn"
+                android:layout_weight="1"
+                android:layout_marginRight="25dp"
+                android:layout_marginLeft="7dp"
+                android:id="@+id/btn_sayfa_giris"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Giriş"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:padding="10dp"/>
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
