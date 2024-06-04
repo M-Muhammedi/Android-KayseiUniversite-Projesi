@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">KAYSERİ ÜNİVERSİTE</string>
+    <string name="kayseri_web">kayseri.edu.tr</string>
+    <string name="email">edu.gmail.com</string>
+
+    <string name="adres">Mevlana Mahallesi 15 Temmuz Yerleşkesi Kümeevler No:5 38280 Talas / KAYSERİ</string>
+
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="obs">Bilgi Sistemi</string>
+    <string name="alms">ALMS</string>
+
+    //Hakımızda Sayfasi
+    <string name="metin1">Kayseri Üniversitesi Mobil Uygulamasına hoş geldiniz! </string>
+    <string name="hakımız1">Bu uygulama, Kayseri Üniversitesi öğrencileri, personeli ve ziyaretçileri için tasarlanmıştır.
+        Amacı, üniversite deneyimini daha kolay, erişilebilir ve verimli hale getirmektir.</string>
+    <string name="hakimiz2">Uygulamamızın Sunduğu İmkanlar:</string>
+    <string name="hakimiz3">Duyurular ve Etkinlikler: Üniversite ile ilgili güncel duyuruları ve etkinlikleri takip edin.</string>
+    <string name="hakimiz4">Ders Programları: Öğrenciler için ders programlarını görüntüleyin ve güncelleyin.</string>
+    <string name="hakimiz5">Akademik Bilgiler: Sınav takvimi, notlar ve ders materyallerine kolayca erişin.</string>
+    <string name="hakimiz6">Kampüs Rehberi: Kampüs haritası, bina ve hizmet noktaları hakkında bilgi alın.</string>
+    <string name="hakimiz7">Haberler ve Araştırmalar: Üniversite ile ilgili güncel haberler ve araştırmalara göz atın.</string>
+    <string name="hakimiz8">Yemek Listesi Ve yemek rezervasyon</string>
+    <string name="hakimiz9">İletişim Bilgileri: Öğretim üyeleri, idari personel ve departman iletişim bilgilerini bulun.</string>
+    <string name="hakimiz10">Kayseri Üniversitesi\'ne ait tüm bu bilgilere tek bir yerden erişmek için uygulamamızı kullanmaya başlayın!
+        Her türlü geri bildiriminiz bizim için değerlidir. Keyifli kullanımlar dileriz!</string>
+
+    //Tariçe metinleri
+    <string name="tarih1">
+        Üniversitemiz Tarihçesi
+    </string>
+
+    <string name="tarih2">
+        Yaklaşık 6 bin yıl öncesine dayalı tarihi geçmişe sahip olan Kayseri, Makarr-ı Ulema, alimler şehri, olarak bilinmektedir.
+    </string>
+
+    <string name="tarih3">
+        Kayseri’de yükseköğretimin temeli 1206 yılında kurulan Gevher Nesibe Şifahanesi ve Medresesi ile atılmıştır.
+        Dünyanın ilk tıp fakültesi olarak da bilinen Gevher Nesibe Şifahanesi ve Medresesi, Anadolu Selçuklu Hükümdarı
+        I. Gıyâseddin Keyhusrev tarafından kız kardeşi Gevher Nesibe Sultan adına yaptırılmış Şifahane ve Medrese, 1890 yılına kadar hizmet vermiştir.
+    </string>
+
+    <string name="tarih4">
+        Cumhuriyet döneminde ise 1969 yılında Hacettepe Üniversitesi’ne bağlı olarak Gevher Nesibe Tıp Fakültesi açılmış
+        ve 1977 yılında kurulan Kayseri İşletme Fakültesi ile 1978 yılında kurulan Kayseri Üniversitesi’nin ilk fakülteleri olmuşlardır.
+    </string>
+
+    <string name="tarih5">
+        Kayseri Üniversitesi’nin adı, 1965 yılında kurulan
+        Kayseri Yüksek İslam Enstitüsü (bugünkü Erciyes Üniversitesi İlahiyat Fakültesi) ile 1977 yılında kurulan Kayseri Devlet Mimarlık ve Mühendislik Akademisini de
+        (bugünkü Erciyes Üniversitesi Mühendislik Fakültesi) bünyesine dahil edilerek 1982 yılında Erciyes Üniversitesi olarak değiştirilmiştir.
+    </string>
+
+    <string name="tarih6">
+        2012 yılında kurulan ve 2018 yılında fakülteye dönüştürülen
+        Uygulamalı Bilimler Fakültesi, 1975 yılında eğitim-öğretime başladıktan sonra 1981 yılında Kayseri Meslek Yüksekokulu olarak
+        Erciyes Üniversitesi’ne bağlanan bugünkü adıyla Teknik Bilimler Meslek Yüksekokulu,
+        1996 yılında kurulan Safiye Çıkrıkçıoğlu Meslek Yüksekokulu,
+        1997 yılında kurulan Mustafa Çıkrıkçıoğlu Meslek Yüksekokulu,
+        2003 yılında kurulan Develi Hüseyin Şahin Meslek Yüksekokulu,
+        2003 yılında kurulan Sosyal Bilimler Meslek Yüksekokulu, 2006
+        yılında kurulan Bünyan Meslek Yüksekokulu,
+        2011 yılında kurulan Tomarza Mustafa Akıncıoğlu Meslek Yüksekokulu ve 2012 yılında kurulan Pınarbaşı Meslek Yüksekokulu,
+        18 Mayıs 2018 tarihli ve 30425 sayılı Resmi Gazete’de yayımlanan
+        “Yükseköğretim Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun” ile Erciyes Üniversitesi’nden ayrılarak yeniden ilgili kanun ile kurulan
+        Kayseri Üniversitesi’nin kurucu fakülte ve meslek yüksekokulları olmuşlardır.
+    </string>
+
+    <string name="tarih7">
+        Develi İslami İlimler Fakültesi, Develi Sosyal ve Beşeri Bilimler Fakültesi, Mühendislik Mimarlık ve Tasarım Fakültesi ile Yahyalı, Yeşilhisar ve İncesu Meslek Yüksekokullarının da
+        ilgili Kanuna eklenmesiyle dört fakülte ve on bir meslek yüksekokulu ile 2018 yılında kurulan Kayseri Üniversitesi’nin bünyesine 2020 yılında kurulan Sağlık Bilimleri Fakültesi
+        ve 2023 yılında kurulan Organize Sanayi Bölgesi Meslek Yüksekokulu’nun dâhil edilmesiyle fakülte sayısı beşe, meslek yüksekokulu sayısı on ikiye yükselmiştir.
+    </string>
+
+    <string name="tarih8">
+        Bugün Kayseri Üniversitesi, beş fakülte, on iki meslek yüksekokulu, bir lisansüstü eğitim enstitüsü ve on iki uygulama ve araştırma merkezi
+        ile öğrenci sayısı açısından Kayseri şehrinin ikinci büyük üniversitesi olarak faaliyetlerini sürdürmektedir.
+</string>
+
+</resources>
