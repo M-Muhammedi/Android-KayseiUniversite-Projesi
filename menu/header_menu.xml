@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grop1">
+
+    <item
+        android:id="@+id/home"
+        android:title="Anasayfa"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/obs"
+        android:title="@string/obs"
+        android:icon="@drawable/student"
+        />
+
+    </group>
+
+    <group
+        android:id="@+id/grop2">
+
+
+    <item
+        android:id="@+id/menu_food"
+        android:title="Yemek Listesi"
+        android:icon="@drawable/food"
+        />
+
+    <item
+        android:id="@+id/duyuru"
+        android:title="Duyurular"
+        android:icon="@drawable/bell"
+        />
+
+</group>
+
+    <group
+        android:id="@+id/grop3">
+
+    <item
+        android:id="@+id/menu_iletisim"
+        android:title="İletişim"
+        android:icon="@drawable/phone"
+        />
+
+    <item
+        android:id="@+id/menu_tarih"
+        android:title="Üniversite Tarihçesi"
+        android:icon="@drawable/book"
+        />
+
+    </group>
+    <item
+        android:id="@+id/menu_uygulama"
+        android:title="Uygulama Hakkında"
+        android:icon="@drawable/about"/>
+    <item
+        android:id="@+id/menu_cikis"
+        android:title="Çıkış"
+        android:icon="@drawable/exit"/>
+
+</menu>
